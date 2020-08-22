@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <details>
 <summary>Github Stats</summary>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bloodstalker"/>
+<img src="https://github-readme-stats.vercel.app/api?username=terminaldweller"/>
 </p>
 </details>
 <details>
