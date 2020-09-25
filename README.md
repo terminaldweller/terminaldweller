@@ -1,4 +1,3 @@
-To keep up with the theme, welcome to the void I guess.
 
 <!--
 **bloodstalker/bloodstalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
