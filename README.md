@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Learning Golang and GIS.<br/>
+
 <details>
 <summary>Github Stats</summary>
 <p align="center">
