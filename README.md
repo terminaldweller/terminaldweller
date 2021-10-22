@@ -28,4 +28,6 @@
   </p>
 </details>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages)](https://github.com/terminaldweller/dockerimages)
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages" href="https://github.com/terminaldweller/dockerimages"/>
+<a href="https://github.com/terminaldweller/dockerimages">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages" />
+</a>
