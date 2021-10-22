@@ -29,11 +29,11 @@
   </p>
 </details>
 <a href="https://github.com/terminaldweller/dockerimages">
-  <img align="center src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages&theme=github_dark" />
 </a>
 <a href="https://github.com/terminaldweller/scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=scripts&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=scripts&theme=github_dark" />
 </a>
 <a href="https://github.com/terminaldweller/vagrantboxes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=vagrantboxes&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=vagrantboxes&theme=github_dark" />
 </a>
