@@ -27,4 +27,4 @@
     </ul>
   </p>
 </details>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=github-readme-stats)](https://github.com/terminaldweller/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages)](https://github.com/terminaldweller/dockerimages)
