@@ -2,7 +2,7 @@
 <details>
   <summary>Github stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=terminaldweller&show_icons=true&theme=blue-green"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=terminaldweller&show_icons=true&theme=github_dark"/>
   </p>
 </details>
 <details>
@@ -14,7 +14,7 @@
 <details>
 <summary>Most used languages</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaldweller&hide=objective-c&theme=blue-green" height="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaldweller&hide=objective-c&theme=github_dark" height="400"/>
   </p>
 </details>
 <details>
@@ -29,8 +29,8 @@
 </details>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages)](https://github.com/terminaldweller/dockerimages)
 <a href="https://github.com/terminaldweller/dockerimages">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages&theme=blue-green" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages&theme=github_dark" />
 </a>
 <a href="https://github.com/terminaldweller/scripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=scripts&theme=blue-green" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=scripts&theme=github_dark" />
 </a>
