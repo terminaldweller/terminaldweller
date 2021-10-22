@@ -8,12 +8,11 @@
 <details>
   <summary>Coding stats for this month</summary>
   <p align="center">
-    <!-- <img src="https://wakatime.com/share/@939a2c82-4342-452e-909a-61f1ee5e0b32/701c4356-5bca-42db-b683-926c1f1f5537.svg" height="400"/> -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bloodstalker" height="400"/>
+    <img src="https://wakatime.com/share/@939a2c82-4342-452e-909a-61f1ee5e0b32/701c4356-5bca-42db-b683-926c1f1f5537.svg" height="400"/>
   </p>
 </details>
 <details>
-<summary>Top languages</summary>
+<summary>Most used languages</summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaldweller&hide=objc&theme=blue-green" height="400"/>
   </p>
@@ -28,3 +27,4 @@
     </ul>
   </p>
 </details>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=github-readme-stats)](https://github.com/terminaldweller/github-readme-stats)
