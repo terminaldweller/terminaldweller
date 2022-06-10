@@ -13,12 +13,6 @@
   </p>
 </details>
 <details>
-<summary>Most used languages</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaldweller&hide=objective-c,plpgsql&theme=github_dark&layout=compact&langs_count=7"/>
-  </p>
-</details>
-<details>
   <summary>Links</summary>
   <p align="left">
     <ul>
