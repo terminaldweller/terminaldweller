@@ -22,7 +22,6 @@
   <summary>Links</summary>
   <p align="left">
     <ul>
-      <li><a href="https://stackoverflow.com/story/devi">Stackoverflow developer story</a></li>
       <li><a href="https://blog.terminaldweller.com">My blog thingy</a></li>
       <li><a href="https://www.linkedin.com/in/farzad-sadeghi/">Linkedin</a></li>
     </ul>
