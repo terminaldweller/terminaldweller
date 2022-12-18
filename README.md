@@ -16,8 +16,8 @@
     </ul>
   </p>
 </details>
-<p>You can find my keys <a href="https://github.com/terminaldweller.gpg">here</a> and <a href="https://github.com/terminaldweller.keys">here</a>. Also WKD direct and advanced are setup on/for my domain.</p>
-<p>If you want to chat you can find me on IRC with the same nick. Also my XMPP : devi@jabber.terminaldweller.com</p>
+<p>You can find my keys <a href="https://github.com/terminaldweller.gpg">here</a> and <a href="https://github.com/terminaldweller.keys">here</a>. WKD direct and advanced are setup on/for my domain.</p>
+<p>If you want to chat you can find me on IRC with the same nick. For XMPP : devi@jabber.terminaldweller.com</p>
 <!-- <a href="https://github.com/terminaldweller/dockerimages"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages&theme=default#gh-light-mode-only" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages&theme=dark#gh-dark-mode-only" /> -->
