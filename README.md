@@ -16,7 +16,7 @@
   </p>
 </details>
 <a href="https://github.com/terminaldweller/dockerimages">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=dockerimages&theme=default" />
 </a>
 <a href="https://github.com/terminaldweller/scripts">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminaldweller&repo=scripts&theme=default" />
