@@ -11,7 +11,7 @@
   <p align="left">
     <ul>
       <li><a href="https://blog.terminaldweller.com">My blog thingy</a></li>
-      <li><p href="https://blog.terminaldweller.com">Mastodon <a href="https://fosstodon.org/@terminaldweller">@terminaldweller@fosstodon.org</a></p></li>
+      <li><p href="https://blog.terminaldweller.com">Mastodon <a href="https://fosstodon.org/@terminaldweller">@terminaldweller@terminaldweller.com</a></p></li>
       <li><a href="https://git.terminaldweller.com">A mirror for some of my repos.</a></li>
     </ul>
   </p>
