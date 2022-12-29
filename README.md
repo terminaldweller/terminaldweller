@@ -11,7 +11,7 @@
   <p align="left">
     <ul>
       <li><a href="https://terminaldweller.com">Link List</a></li>
-      <li><a href="https://ipfs.terminaldweller.com">Link List on IPFS</a></li>
+      <li><a href="https://terminaldweller.eth.link">Link List on IPFS</a></li>
       <li><a href="https://git.terminaldweller.com">A mirror for some of my repos.</a></li>
     </ul>
   </p>
