@@ -12,7 +12,7 @@
     <ul>
       <li><a href="https://terminaldweller.com">Link List</a></li>
       <li><a href="https://terminaldweller.eth.link">Link List on IPFS</a></li>
-      <li><a href="gemini://gemini.terminaldweller.com">Link List on Gemini</a></li>
+      <li>Link List on Gemini: gemini://gemini.terminaldweller.com</li>
       <li><a href="https://git.terminaldweller.com">A mirror for some of my repos.</a></li>
     </ul>
   </p>
