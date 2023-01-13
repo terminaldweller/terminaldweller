@@ -10,8 +10,13 @@
     </ul>
   </p>
 </details>
-My keys:</br>
-* SSH: [here](https://github.com/terminaldweller.gpg) and [here](https://terminaldweller.com/keys/gpg_pubkey)
-* PGP: [here](https://github.com/terminaldweller.keys) and [here](https://terminaldweller.com/keys/id_rsa.pub)
-WKD direct and advanced are setup on/for my domain.</br>
-If you want to chat you can find me on IRC with the same nick. For XMPP : devi@jabber.terminaldweller.com.</br>
+
+<p align="left">
+  My keys:
+  <ul>
+    <li>SSH: <a href="https://github.com/terminaldweller.gpg">here</a> and <a href="https://terminaldweller.com/keys/gpg_pubkey">here</a></li>
+    <li>PGP: <a href="https://github.com/terminaldweller.keys">here</a> and <a href="https://terminaldweller.com/keys/id_rsa.pub">here</a></li>
+  </ul>
+</p>
+<p>WKD direct and advanced are setup on/for my domain.</p>
+<p>If you want to chat you can find me on IRC with the same nick. For XMPP : devi@jabber.terminaldweller.com.</p>
