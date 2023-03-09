@@ -22,8 +22,8 @@
 <p align="left">
   My keys:
   <ul>
-    <li>SSH public key: <a href="https://github.com/terminaldweller.gpg">github</a>, <a href="https://codeberg.org/terminaldweller.gpg">codeberg</a>, <a href="https://gitlab.com/terminaldweller.gpg">gitlab</a>, <a href="https://terminaldweller.com/keys/gpg_pubkey">my domain</a></li>
-    <li>PGP public key: <a href="https://github.com/terminaldweller.keys">github</a>, <a href="https://codeberg.org/terminaldweller.keys">codeberg</a>, <a href="https://gitlab.com/terminaldweller.keys">gitlab</a>, <a href="https://terminaldweller.com/keys/id_rsa.pub">my domain</a></li>
+    <li>PGP public key: <a href="https://github.com/terminaldweller.gpg">github</a>, <a href="https://codeberg.org/terminaldweller.gpg">codeberg</a>, <a href="https://gitlab.com/terminaldweller.gpg">gitlab</a>, <a href="https://terminaldweller.com/keys/gpg_pubkey">my domain</a></li>
+    <li>SSH public key: <a href="https://github.com/terminaldweller.keys">github</a>, <a href="https://codeberg.org/terminaldweller.keys">codeberg</a>, <a href="https://gitlab.com/terminaldweller.keys">gitlab</a>, <a href="https://terminaldweller.com/keys/id_rsa.pub">my domain</a></li>
   </ul>
 </p>
 <p>WKD direct and advanced are setup on/for my domain.</p>
