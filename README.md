@@ -1,4 +1,4 @@
-<detail>
+<details>
   <p style="font-size:20px;font-weight:bold">This is a list of links:</p>
   <p>
     <div>This page is available on:</div>
@@ -60,4 +60,4 @@
   <div>
     <div>Services: N/A</div>
   </div>
-</detail>
+</details>
