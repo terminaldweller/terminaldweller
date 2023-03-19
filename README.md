@@ -1,5 +1,4 @@
-<html>
-  <head>
+<head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -23,8 +22,8 @@
         hyphens:auto;
       }
     </style>
-  </head>
-  <body style="color:#005f87;background:#000000;text-align:center;padding:0px;border:0px;margin:0px;">
+</head>
+<body style="color:#005f87;background:#000000;text-align:center;padding:0px;border:0px;margin:0px;">
   <detail>
     <p style="font-size:20px;font-weight:bold">This is a list of links:</p>
     <p>
@@ -88,5 +87,4 @@
       <div>Services: N/A</div>
     </div>
     </detail>
-  </body>
-</html>
+</body>
