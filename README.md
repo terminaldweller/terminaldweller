@@ -1,28 +1,3 @@
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta http-equiv="onion-location" content="http://dqunl5rzlv6skqfklqr4dwi4zph2vqoaennc7qoinqs5mlug4docq2yd.onion"/>
-    <meta name="robots" content="nofollow,noindex"/>
-    <meta name="description" content="list of links for terminaldweller"/>
-    <meta name="author" content="terminaldweller"/>
-    <title>main</title>
-    <style>
-      a:link {
-        color: #005faf;
-      }
-      a:visited {
-        color: #008787;
-      }
-      div {
-        word-wrap: break-word;
-        -moz-hyphens:auto;
-        -webkit-hyphens:auto;
-        -o-hyphens:auto;
-        hyphens:auto;
-      }
-    </style>
-</head>
 <body style="color:#005f87;background:#000000;text-align:center;padding:0px;border:0px;margin:0px;">
   <detail>
     <p style="font-size:20px;font-weight:bold">This is a list of links:</p>
