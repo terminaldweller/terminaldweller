@@ -161,12 +161,12 @@
     <h3>Linkedin</h3>
     <div><a href="https://www.linkedin.com/in/farzad-sadeghi/">Linkedin</a> - <span class="pseudolink">https://www.linkedin.com/in/farzad-sadeghi</span></div>
   </p>
-  <p float="left" class="line">
+  <p class="line">
     <h3>Blockie Canaries</h3>
       <div>Because it's easier to remember a picture with colors than a long random-looking string.</div>
       <br>
       <div style="display: flex;align-items: center;justify-content: center;">
-      <div class="row">
+      <p float="left" class="row">
         <div>
           <img style="width: 20%;" src="./identicon.png" title="GPG devi@terminaldweller.com"/>
         </div>
@@ -185,7 +185,7 @@
       </div>
       </div>
       <div style="display: flex;align-items: center;justify-content: center;">
-      <div class="row">
+      <p float="left" class="row">
         <div>
           <img style="width: 20%;" src="./otr_libera.png" title="OTR Libera.Chat"/>
         </div>
