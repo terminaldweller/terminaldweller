@@ -167,40 +167,20 @@
       <br>
       <div style="display: flex;align-items: center;justify-content: center;">
       <p float="left" class="row">
-        <div>
           <img style="width: 20%;" src="./identicon.png" title="GPG devi@terminaldweller.com"/>
-        </div>
-        <div>
           <img style="width: 20%;" src="./gmail.png" title="GPG thabogre@gmail.com"/>
-        </div>
-        <div>
           <img style="width: 20%;" src="./zoho.png" title="GPG bloodstalker@zoho.com"/>
-        </div>
-        <div>
           <img style="width: 20%;" src="./ssh_pub.png" title="ssh"/>
-        </div>
-        <div>
           <img style="width: 20%;" src="./nostr.png" title="nostr"/>
-        </div>
       </div>
       </div>
       <div style="display: flex;align-items: center;justify-content: center;">
       <p float="left" class="row">
-        <div>
           <img style="width: 20%;" src="./otr_libera.png" title="OTR Libera.Chat"/>
-        </div>
-        <div>
           <img style="width: 20%;" src="./otr_oftc.png" title="OTR OFTC"/>
-        </div>
-        <div>
           <img style="width: 20%;" src="./otr_tilde.png" title="OTR tilde.chat"/>
-        </div>
-        <div>
           <img style="width: 20%;" src="./otr_rizon.png" title="OTR rizon"/>
-        </div>
-        <div>
           <img style="width: 20%;" src="./otr_bonobonet.png" title="OTR BonoboNET"/>
-        </div>
       </div>
       </div>
   </p>
