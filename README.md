@@ -168,38 +168,38 @@
       <div style="display: flex;align-items: center;justify-content: center;">
       <div class="row">
         <div>
-          <img src="./identicon.png" title="GPG devi@terminaldweller.com"/>
+          <img style="width: 20%;" src="./identicon.png" title="GPG devi@terminaldweller.com"/>
         </div>
         <div>
-          <img src="./gmail.png" title="GPG thabogre@gmail.com"/>
+          <img style="width: 20%;" src="./gmail.png" title="GPG thabogre@gmail.com"/>
         </div>
         <div>
-          <img src="./zoho.png" title="GPG bloodstalker@zoho.com"/>
+          <img style="width: 20%;" src="./zoho.png" title="GPG bloodstalker@zoho.com"/>
         </div>
         <div>
-          <img src="./ssh_pub.png" title="ssh"/>
+          <img style="width: 20%;" src="./ssh_pub.png" title="ssh"/>
         </div>
         <div>
-          <img src="./nostr.png" title="nostr"/>
+          <img style="width: 20%;" src="./nostr.png" title="nostr"/>
         </div>
       </div>
       </div>
       <div style="display: flex;align-items: center;justify-content: center;">
       <div class="row">
         <div>
-          <img src="./otr_libera.png" title="OTR Libera.Chat"/>
+          <img style="width: 20%;" src="./otr_libera.png" title="OTR Libera.Chat"/>
         </div>
         <div>
-          <img src="./otr_oftc.png" title="OTR OFTC"/>
+          <img style="width: 20%;" src="./otr_oftc.png" title="OTR OFTC"/>
         </div>
         <div>
-          <img src="./otr_tilde.png" title="OTR tilde.chat"/>
+          <img style="width: 20%;" src="./otr_tilde.png" title="OTR tilde.chat"/>
         </div>
         <div>
-          <img src="./otr_rizon.png" title="OTR rizon"/>
+          <img style="width: 20%;" src="./otr_rizon.png" title="OTR rizon"/>
         </div>
         <div>
-          <img src="./otr_bonobonet.png" title="OTR BonoboNET"/>
+          <img style="width: 20%;" src="./otr_bonobonet.png" title="OTR BonoboNET"/>
         </div>
       </div>
       </div>
