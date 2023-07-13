@@ -161,7 +161,7 @@
     <h3>Linkedin</h3>
     <div><a href="https://www.linkedin.com/in/farzad-sadeghi/">Linkedin</a> - <span class="pseudolink">https://www.linkedin.com/in/farzad-sadeghi</span></div>
   </p>
-  <p class="line">
+  <p float="left" class="line">
     <h3>Blockie Canaries</h3>
       <div>Because it's easier to remember a picture with colors than a long random-looking string.</div>
       <br>
