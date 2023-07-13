@@ -167,20 +167,20 @@
       <br>
       <div style="display: flex;align-items: center;justify-content: center;">
       <p float="left" class="row">
-          <img style="width: 20%;" src="./identicon.png" title="GPG devi@terminaldweller.com"/>
-          <img style="width: 20%;" src="./gmail.png" title="GPG thabogre@gmail.com"/>
-          <img style="width: 20%;" src="./zoho.png" title="GPG bloodstalker@zoho.com"/>
-          <img style="width: 20%;" src="./ssh_pub.png" title="ssh"/>
-          <img style="width: 20%;" src="./nostr.png" title="nostr"/>
+          <img style="width: 17%;" src="./identicon.png" title="GPG devi@terminaldweller.com"/>
+          <img style="width: 17%;" src="./gmail.png" title="GPG thabogre@gmail.com"/>
+          <img style="width: 17%;" src="./zoho.png" title="GPG bloodstalker@zoho.com"/>
+          <img style="width: 17%;" src="./ssh_pub.png" title="ssh"/>
+          <img style="width: 17%;" src="./nostr.png" title="nostr"/>
       </div>
       </div>
       <div style="display: flex;align-items: center;justify-content: center;">
       <p float="left" class="row">
-          <img style="width: 20%;" src="./otr_libera.png" title="OTR Libera.Chat"/>
-          <img style="width: 20%;" src="./otr_oftc.png" title="OTR OFTC"/>
-          <img style="width: 20%;" src="./otr_tilde.png" title="OTR tilde.chat"/>
-          <img style="width: 20%;" src="./otr_rizon.png" title="OTR rizon"/>
-          <img style="width: 20%;" src="./otr_bonobonet.png" title="OTR BonoboNET"/>
+          <img style="width: 17%;" src="./otr_libera.png" title="OTR Libera.Chat"/>
+          <img style="width: 17%;" src="./otr_oftc.png" title="OTR OFTC"/>
+          <img style="width: 17%;" src="./otr_tilde.png" title="OTR tilde.chat"/>
+          <img style="width: 17%;" src="./otr_rizon.png" title="OTR rizon"/>
+          <img style="width: 17%;" src="./otr_bonobonet.png" title="OTR BonoboNET"/>
       </div>
       </div>
   </p>
