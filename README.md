@@ -1,6 +1,6 @@
 <details>
 <summary>
-  links' list
+  List of Links
 </summary>
 <html>
 <body style="color:#005f87;background:#000000;text-align:center;padding:0px;border:0px;margin:0px;font-family:mono;border:solid;">
