@@ -1,4 +1,7 @@
 <details>
+<summary>
+  links' list
+</summary>
 <html>
 <body style="color:#005f87;background:#000000;text-align:center;padding:0px;border:0px;margin:0px;font-family:mono;border:solid;">
   <h2>LIST OF LINKS</h2>
