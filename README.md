@@ -11,61 +11,6 @@
     <meta name="robots" content="nofollow,noindex"/>
     <meta name="description" content="list of links for terminaldweller"/>
     <meta name="author" content="terminaldweller"/>
-    <title>main</title>
-    <link rel="icon" type="image/x-icon" href="./ergo.png">
-    <style>
-      a:link {
-        color: #005faf;
-      }
-      a:visited {
-        color: #008787;
-      }
-      div {
-        word-wrap: break-word;
-        -moz-hyphens:auto;
-        -webkit-hyphens:auto;
-        -o-hyphens:auto;
-        hyphens:auto;
-      }
-      ::selection {
-        background: #5f875f;
-        color: #000000;
-      }
-      h3 {
-        margin: 2px;
-      }
-      .line {
-        border-bottom: thin solid #00af87;
-        width: 50%;
-        margin-left: auto;
-        margin-right: auto;
-      }
-      .fingerprint {
-        color: #5f87d7;
-      }
-      .fingerprint::selection {
-        color: #000000;
-        background: #5f87d7;
-      }
-      .pseudolink {
-        user-select: all;
-      }
-      img {
-        width: 100%;
-      }
-      .row {
-        display: flex;
-        flex-direction: row;
-        gap: 1%;
-        width:50%;
-      }
-      img:hover {
-        filter: opacity(0.2) blur(.5rem);
-      }
-      ul {
-        list-style-type: square;
-      }
-    </style>
   </head>
   <body style="color:#005f87;background:#000000;text-align:center;padding:0px;border:0px;margin:0px;font-family:mono;border:solid;">
     <h2>LIST OF LINKS</h2>
