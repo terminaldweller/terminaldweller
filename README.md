@@ -11,6 +11,62 @@
     <meta name="robots" content="nofollow,noindex"/>
     <meta name="description" content="list of links for terminaldweller"/>
     <meta name="author" content="terminaldweller"/>
+    <title>ropes</title>
+    <link rel="icon" type="image/x-icon" href="./ergo.png">
+    <style>
+      a:link {
+        color: #005faf;
+      }
+      a:visited {
+        color: #008787;
+      }
+      div {
+        word-wrap: break-word;
+        -moz-hyphens:auto;
+        -webkit-hyphens:auto;
+        -o-hyphens:auto;
+        hyphens:auto;
+      }
+      ::selection {
+        background: #5f875f;
+        color: #000000;
+      }
+      h3 {
+        margin: 2px;
+      }
+      .line {
+        border-bottom: thin solid #00af87;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .fingerprint {
+        color: #5f87d7;
+        user-select: all;
+      }
+      .fingerprint::selection {
+        color: #000000;
+        background: #5f87d7;
+      }
+      .pseudolink {
+        user-select: all;
+      }
+      img {
+        width: 100%;
+      }
+      .row {
+        display: flex;
+        flex-direction: row;
+        gap: 1%;
+        width:50%;
+      }
+      img:hover {
+        filter: opacity(0.2) blur(.5rem);
+      }
+      ul {
+        list-style-type: square;
+      }
+    </style>
   </head>
   <body style="color:#005f87;background:#000000;text-align:center;padding:0px;border:0px;margin:0px;font-family:mono;border:solid;">
     <h2>LIST OF LINKS</h2>
@@ -24,7 +80,7 @@
       </div>
       <br>
       <div style="color: #005f00;font-weight: bold;">
-        Timestamp: <span class="pseudolink">1696380725</span>
+        Timestamp: <span class="pseudolink">1698948133</span>
       </div>
     </p>
     <p class="line">
@@ -49,6 +105,7 @@
     <p class="line">
       <h3>Keyoxide <a href="https://keyoxide.org/" style="color: #005f00;text-decoration: none" title="https://keyoxide.org/">+</a></h3>
       <div><a href="https://keyoxide.org/hkp/9e20464f1ccf3b103249fa93a6a0f5158b3881df">keyoxide</a> - <span class="pseudolink">https://keyoxide.org/hkp/9e20464f1ccf3b103249fa93a6a0f5158b3881df</span></div>
+      <div><a href="https://discover.terminaldweller.com">discover.terminaldweller.com</a> - <span class="pseudolink">https://discover.terminaldweller.com</span></div>
       <div>I don't use all the accounts listed on the PGP pubkey regularly. The preferred methods of contacting me are the ones that are listed here, IRC, email and XMPP (The order is not significant).</div>
       <br/>
       <div>Proofs that are expected to fail:</div>
@@ -63,7 +120,7 @@
     <div>
       <p class="line">
         <h3>PGP Key: <span class="pseudolink">devi@terminaldweller.com</span></h3>
-        <div>PGP FP: <span class="fingerprint pseudolink">9E20464F1CCF3B103249FA93A6A0F5158B3881DF</span></div>
+        <div>PGP FP: <span class="fingerprint">9E20464F1CCF3B103249FA93A6A0F5158B3881DF</span></div>
         <div><a href="https://github.com/terminaldweller.gpg">github</a> - <span class="pseudolink">https://github.com/terminaldweller.gpg</span></div>
         <div><a href="https://gitlab.com/terminaldweller.gpg">gitlab</a> - <span class="pseudolink">https://gitlab.com/terminaldweller.gpg</span></div>
         <div><a href="https://codeberg.org/terminaldweller.gpg">codeberg</a> - <span class="pseudolink">https://codeberg.org/terminaldweller.gpg</span></div>
@@ -170,8 +227,9 @@
     </p>
     <p class="line">
       <h3>Nostr <a href="https://nostr.com/" style="color: #005f00;text-decoration: none;font-weight: bold;" title="https://nostr.com/">+</a></h3>
-      <div>Public Key: <span class="fingerprint pseudolink">929386850940d0902cd065324591448f6714ca52f3e6ef9c911d9e471e9ef12c</span></div>
-      <div>Nprofile: <span class="fingerprint pseudolink">nprofile1qqsf9yuxs5y5p5ys9ngx2vj9j9zg7ec5eff08eh0njg3m8j8r600ztqtrsaa3</span></div>
+      <div>Public Key: hex:<span class="fingerprint pseudolink">00000002e2b8fa65ed2fd15ab394243497d7c443c9eea5bea08d66db75f91eb1</span> bech32:<span class="fingerprint pseudolink">npub1qqqqqqhzhraxtmf069dt89pyxjta03zre8h2t04q34ndka0er6cs94ucud</span></div>
+      <div>Nprofile: <span class="fingerprint pseudolink">nprofile1qqsqqqqqqt3t37n9a5hazk4njsjrf97hc3punm49h6sg6ekmwhu3avgpzamhxue69uhkummnw3ezuer9dpjkjm3wdaexwtch70zsa</span></div>
+      <div>Payed relay: <span class="pseudolink">wss://nostr.dehein.org</span></div>
     </p>
     <p class="line">
       <h3>Blog</h3>
@@ -187,27 +245,53 @@
         <br>
         <div style="display: flex;align-items: center;justify-content: center;">
         <div class="row">
-            <img style="width: 21%" src="./identicon.png" title="GPG devi@terminaldweller.com"/>
-            <img style="width: 21%" src="./gmail.png" title="GPG thabogre@gmail.com"/>
-            <img style="width: 21%" src="./zoho.png" title="GPG bloodstalker@zoho.com"/>
-            <img style="width: 21%" src="./proton.png" title="GPG farzadsadeghi@protonmail.ch"/>
+          <div>
+            <img src="./identicon.png" title="GPG devi@terminaldweller.com"/>
+          </div>
+          <div>
+            <img src="./gmail.png" title="GPG thabogre@gmail.com"/>
+          </div>
+          <div>
+            <img src="./zoho.png" title="GPG bloodstalker@zoho.com"/>
+          </div>
+          <div>
+            <img src="./proton.png" title="GPG farzadsadeghi@protonmail.ch"/>
+          </div>
         </div>
         </div>
         <div style="display: flex;align-items: center;justify-content: center;">
         <div class="row">
-            <img style="width: 28%" src="./ssh_pub.png" title="ssh"/>
-            <img style="width: 28%" src="./ssh_ed.png" title="ssh ed25519"/>
-            <img style="width: 28%" src="./nostr.png" title="nostr"/>
+          <div>
+            <img src="./ssh_pub.png" title="ssh"/>
+          </div>
+          <div>
+            <img src="./ssh_ed.png" title="ssh ed25519"/>
+          </div>
+          <div>
+            <img src="./nostr.png" title="nostr"/>
+          </div>
         </div>
         </div>
         <div style="display: flex;align-items: center;justify-content: center;">
         <div class="row">
-            <img style="width: 14%" src="./otr_libera.png" title="OTR Libera.Chat"/>
-            <img style="width: 14%" src="./otr_oftc.png" title="OTR OFTC"/>
-            <img style="width: 14%" src="./otr_tilde.png" title="OTR tilde.chat"/>
-            <img style="width: 14%" src="./otr_rizon.png" title="OTR rizon"/>
-            <img style="width: 14%" src="./otr_bonobonet.png" title="OTR BonoboNET"/>
-            <img style="width: 14%" src="./otr_hackint.png" title="OTR hackint"/>
+          <div>
+            <img src="./otr_libera.png" title="OTR Libera.Chat"/>
+          </div>
+          <div>
+            <img src="./otr_oftc.png" title="OTR OFTC"/>
+          </div>
+          <div>
+            <img src="./otr_tilde.png" title="OTR tilde.chat"/>
+          </div>
+          <div>
+            <img src="./otr_rizon.png" title="OTR rizon"/>
+          </div>
+          <div>
+            <img src="./otr_bonobonet.png" title="OTR BonoboNET"/>
+          </div>
+          <div>
+            <img src="./otr_hackint.png" title="OTR hackint"/>
+          </div>
         </div>
         </div>
     </p>
@@ -222,9 +306,20 @@
       <div><a href="https://doh.terminaldweller.com/getnsrecord">DoH</a>: <span class="pseudolink">https://doh.terminaldweller.com/getnsrecord </span><a href="https://github.com/DNSCrypt/doh-server" style="color: #005f00;text-decoration: none;font-weight: bold;" title="https://github.com/DNSCrypt/doh-server">+</a></div>
       <div><a href="https://searx.terminaldweller.com">searxng</a>: <span class="pseudolink">https://searx.terminaldweller.com </span><a href="https://github.com/searxng/searxng" style="color: #005f00;text-decoration: none;font-weight: bold;" title="https://github.com/searxng/searxng">+</a></div>
       <div><a href="https://url.dehein.org">YOURLS</a>: <span class="pseudolink">https://url.dehein.org </span><a href="https://github.com/YOURLS/YOURLS" style="color: #005f00;text-decoration: none;font-weight: bold;" title="https://github.com/YOURLS/YOURLS">+</a></div>
+      <div><a href="https://librex.terminaldweller.com">librex</a>: <span class="pseudolink">https://librex.terminaldweller.com </span><a href="https://github.com/hnhx/librex" style="color: #005f00;text-decoration: none;font-weight: bold;" title="https://github.com/hnhx/librex">+</a></div>
+      <div><a href="wss://nostr.dehein.org">nostream</a>: <span class="pseudolink">wss://nostr.dehein.org </span><a href="https://github.com/Cameri/nostream" style="color: #005f00;text-decoration: none;font-weight: bold;" title="https://github.com/Cameri/nostream">+</a></div>
       <br>
       <div>The services will be eventually hosted on other overlay/mesh networks as well.</div>
     </p>
+    <p class="line"></p>
+    <div>
+      <a href="https://www.eff.org/">
+        <img src="./eff-2023-member-member.png" style="max-width: 13%;" title="EFF 2023 membership batch">
+      </a>
+      <br>
+      <br>
+      <div class="pseudolink">https://www.eff.org/</div>
+    </div>
     <p class="line"></p>
     <br>
     <div style="display: flex;align-items: center;justify-content: center;">
@@ -339,7 +434,7 @@
     <br>
     <div><a href="https://dehein.org">DeviHeavyIndustries</a> : <span class="pseudolink">https://dehein.org</span></div>
     <br>
-    <br>
+    <noscript><span style="font-size: x-small;">This webpage does not require javascript.</span></noscript>
   </body>
 </html>
 </details>
