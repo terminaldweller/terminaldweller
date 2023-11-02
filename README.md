@@ -11,62 +11,6 @@
     <meta name="robots" content="nofollow,noindex"/>
     <meta name="description" content="list of links for terminaldweller"/>
     <meta name="author" content="terminaldweller"/>
-    <title>ropes</title>
-    <link rel="icon" type="image/x-icon" href="./ergo.png">
-    <style>
-      a:link {
-        color: #005faf;
-      }
-      a:visited {
-        color: #008787;
-      }
-      div {
-        word-wrap: break-word;
-        -moz-hyphens:auto;
-        -webkit-hyphens:auto;
-        -o-hyphens:auto;
-        hyphens:auto;
-      }
-      ::selection {
-        background: #5f875f;
-        color: #000000;
-      }
-      h3 {
-        margin: 2px;
-      }
-      .line {
-        border-bottom: thin solid #00af87;
-        width: 50%;
-        margin-left: auto;
-        margin-right: auto;
-      }
-      .fingerprint {
-        color: #5f87d7;
-        user-select: all;
-      }
-      .fingerprint::selection {
-        color: #000000;
-        background: #5f87d7;
-      }
-      .pseudolink {
-        user-select: all;
-      }
-      img {
-        width: 100%;
-      }
-      .row {
-        display: flex;
-        flex-direction: row;
-        gap: 1%;
-        width:50%;
-      }
-      img:hover {
-        filter: opacity(0.2) blur(.5rem);
-      }
-      ul {
-        list-style-type: square;
-      }
-    </style>
   </head>
   <body style="color:#005f87;background:#000000;text-align:center;padding:0px;border:0px;margin:0px;font-family:mono;border:solid;">
     <h2>LIST OF LINKS</h2>
@@ -246,16 +190,16 @@
         <div style="display: flex;align-items: center;justify-content: center;">
         <div class="row">
           <div>
-            <img src="./identicon.png" title="GPG devi@terminaldweller.com"/>
+            <img src="./identicon.png" style="width=21%;" title="GPG devi@terminaldweller.com"/>
           </div>
           <div>
-            <img src="./gmail.png" title="GPG thabogre@gmail.com"/>
+            <img src="./gmail.png" style="width=21%;" title="GPG thabogre@gmail.com"/>
           </div>
           <div>
-            <img src="./zoho.png" title="GPG bloodstalker@zoho.com"/>
+            <img src="./zoho.png" style="width=21%;" title="GPG bloodstalker@zoho.com"/>
           </div>
           <div>
-            <img src="./proton.png" title="GPG farzadsadeghi@protonmail.ch"/>
+            <img src="./proton.png" style="width=21%;" title="GPG farzadsadeghi@protonmail.ch"/>
           </div>
         </div>
         </div>
