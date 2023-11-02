@@ -189,27 +189,27 @@
         <br>
         <div style="display: flex;align-items: center;justify-content: center;">
         <div class="row">
-            <img src="./identicon.png" style="width=21%;" title="GPG devi@terminaldweller.com"/>
-            <img src="./gmail.png" style="width=21%;" title="GPG thabogre@gmail.com"/>
-            <img src="./zoho.png" style="width=21%;" title="GPG bloodstalker@zoho.com"/>
-            <img src="./proton.png" style="width=21%;" title="GPG farzadsadeghi@protonmail.ch"/>
+            <img src="./identicon.png" style="width:21%;" title="GPG devi@terminaldweller.com"/>
+            <img src="./gmail.png" style="width:21%;" title="GPG thabogre@gmail.com"/>
+            <img src="./zoho.png" style="width:21%;" title="GPG bloodstalker@zoho.com"/>
+            <img src="./proton.png" style="width:21%;" title="GPG farzadsadeghi@protonmail.ch"/>
         </div>
         </div>
         <div style="display: flex;align-items: center;justify-content: center;">
         <div class="row">
-            <img src="./ssh_pub.png" style="width=28%;" title="ssh"/>
-            <img src="./ssh_ed.png" style="width=28%;" title="ssh ed25519"/>
-            <img src="./nostr.png" style="width=28%;" title="nostr"/>
+            <img src="./ssh_pub.png" style="width:28%;" title="ssh"/>
+            <img src="./ssh_ed.png" style="width:28%;" title="ssh ed25519"/>
+            <img src="./nostr.png" style="width:28%;" title="nostr"/>
         </div>
         </div>
         <div style="display: flex;align-items: center;justify-content: center;">
         <div class="row">
-            <img src="./otr_libera.png" style="width=14%;" title="OTR Libera.Chat"/>
-            <img src="./otr_oftc.png" style="width=14%;" title="OTR OFTC"/>
-            <img src="./otr_tilde.png" style="width=14%;" title="OTR tilde.chat"/>
-            <img src="./otr_rizon.png" style="width=14%;" title="OTR rizon"/>
-            <img src="./otr_bonobonet.png" style="width=14%;" title="OTR BonoboNET"/>
-            <img src="./otr_hackint.png" style="width=14%;" title="OTR hackint"/>
+            <img src="./otr_libera.png" style="width:14%;" title="OTR Libera.Chat"/>
+            <img src="./otr_oftc.png" style="width:14%;" title="OTR OFTC"/>
+            <img src="./otr_tilde.png" style="width:14%;" title="OTR tilde.chat"/>
+            <img src="./otr_rizon.png" style="width:14%;" title="OTR rizon"/>
+            <img src="./otr_bonobonet.png" style="width:14%;" title="OTR BonoboNET"/>
+            <img src="./otr_hackint.png" style="width:14%;" title="OTR hackint"/>
         </div>
         </div>
     </p>
