@@ -206,35 +206,35 @@
         <div style="display: flex;align-items: center;justify-content: center;">
         <div class="row">
           <div>
-            <img src="./ssh_pub.png" title="ssh"/>
+            <img src="./ssh_pub.png" style="width=28%;" title="ssh"/>
           </div>
           <div>
-            <img src="./ssh_ed.png" title="ssh ed25519"/>
+            <img src="./ssh_ed.png" style="width=28%;" title="ssh ed25519"/>
           </div>
           <div>
-            <img src="./nostr.png" title="nostr"/>
+            <img src="./nostr.png" style="width=28%;" title="nostr"/>
           </div>
         </div>
         </div>
         <div style="display: flex;align-items: center;justify-content: center;">
         <div class="row">
           <div>
-            <img src="./otr_libera.png" title="OTR Libera.Chat"/>
+            <img src="./otr_libera.png" style="width=14%;" title="OTR Libera.Chat"/>
           </div>
           <div>
-            <img src="./otr_oftc.png" title="OTR OFTC"/>
+            <img src="./otr_oftc.png" style="width=14%;" title="OTR OFTC"/>
           </div>
           <div>
-            <img src="./otr_tilde.png" title="OTR tilde.chat"/>
+            <img src="./otr_tilde.png" style="width=14%;" title="OTR tilde.chat"/>
           </div>
           <div>
-            <img src="./otr_rizon.png" title="OTR rizon"/>
+            <img src="./otr_rizon.png" style="width=14%;" title="OTR rizon"/>
           </div>
           <div>
-            <img src="./otr_bonobonet.png" title="OTR BonoboNET"/>
+            <img src="./otr_bonobonet.png" style="width=14%;" title="OTR BonoboNET"/>
           </div>
           <div>
-            <img src="./otr_hackint.png" title="OTR hackint"/>
+            <img src="./otr_hackint.png" style="width=14%;" title="OTR hackint"/>
           </div>
         </div>
         </div>
