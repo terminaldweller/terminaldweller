@@ -36,7 +36,6 @@
       <div><a href="http://iedzwh5v2vouywqy4eak3eu33amfn3rzhdcln7j4r5kcyvf46cea.b32.i2p/" target="_blank" rel="noopener noreferrer">i2p mirror</a> - <span class="pseudolink">http://iedzwh5v2vouywqy4eak3eu33amfn3rzhdcln7j4r5kcyvf46cea.b32.i2p</span></div>
       <div><a href="http://dqunl5rzlv6skqfklqr4dwi4zph2vqoaennc7qoinqs5mlug4docq2yd.onion/" target="_blank" rel="noopener noreferrer">tor mirror</a> - <span class="pseudolink">http://dqunl5rzlv6skqfklqr4dwi4zph2vqoaennc7qoinqs5mlug4docq2yd.onion</span></div>
       <div><a href="http://[21e:cd57:a147:322a:723b:a322:e4c8:c26e]/" target="_blank" rel="noopener noreferrer">yggdrasil</a> - <span class="pseudolink">http://[21e:cd57:a147:322a:723b:a322:e4c8:c26e]</span><a href="https://yggdrasil-network.github.io/" target="_blank" rel="noopener noreferrer" style="color: #005f00;text-decoration: none;font-weight: bold;" title="https://yggdrasil-network.github.io/"> +</a></div>
-      <div><a href="http://fyqzoraakwjwkj48cmp4ho8gy9k3hdk67stjb8z34d1u3p9urtgy.loki" target="_blank" rel="noopener noreferrer">lokinet</a> - <span class="pseudolink">http://fyqzoraakwjwkj48cmp4ho8gy9k3hdk67stjb8z34d1u3p9urtgy.loki</span></div>
       <div><a href="gopher://gopher.terminaldweller.com" target="_blank" rel="noopener noreferrer">gopher</a> - <span class="pseudolink">gopher://gopher.terminaldweller.com</span></div>
     </p>
     <p class="line">
@@ -214,9 +213,19 @@
         </div>
         </div>
     </p>
+    <p class="line"></p>
+    <p>
+      <h3>Badges</h3>
+      <br>
+      <div style="display: flex;align-items: center;justify-content: center;">
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="72d91eb3-faf4-4dff-a324-a3147dc75c56" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3e6e5b70-661c-450c-9344-287dfa188fb4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a838b8a8-ed77-4150-98f0-c4ae2b77b2c5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      </div>
+    </p>
     <p class="line">
       <h3>Privacy Policy</h3>
-      <p>I keep IP logs. If that is of concern to you, please use this website over the anonymizing networks it is available on (Tor,I2P,Lokinet).</p>
+      <p>I keep IP logs. If that is of concern to you, please use this website over the anonymizing networks it is available on (Tor,I2P).</p>
     </p>
     <p class="line">
       <h3>Disclaimer</h3>
