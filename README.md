@@ -213,16 +213,6 @@
         </div>
         </div>
     </p>
-    <p class="line"></p>
-    <p>
-      <h3>Badges</h3>
-      <br>
-      <div style="display: flex;align-items: center;justify-content: center;">
-        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="72d91eb3-faf4-4dff-a324-a3147dc75c56" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3e6e5b70-661c-450c-9344-287dfa188fb4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a838b8a8-ed77-4150-98f0-c4ae2b77b2c5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-      </div>
-    </p>
     <p class="line">
       <h3>Privacy Policy</h3>
       <p>I keep IP logs. If that is of concern to you, please use this website over the anonymizing networks it is available on (Tor,I2P).</p>
